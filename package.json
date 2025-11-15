@@ -1,0 +1,11 @@
+{
+  "name": "pax-historia",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "scripts": {
+    "build": "echo 'Static build'"
+  }
+}
